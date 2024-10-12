@@ -1,0 +1,1 @@
+This repository contains a Jupyter notebook with some of the main and basic charateristics in the data science environment, such as, programming langueges used, common libraries, developing environment open source tools, and some examples of simple arithmetic expressions in python.
